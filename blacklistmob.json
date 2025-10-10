@@ -1,9 +1,6 @@
 {
   "Ip_Server": [
-    "samp.server1.com:7777"
+    "178.132.198.217:7777"
   ],
-  "Ip_Usuario": [
-    "45.180.96.177"
-  ]
+  "Ip_Usuario": []
 }
-
