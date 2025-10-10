@@ -1,1 +1,8 @@
-
+{
+  "Ip_Server": [
+    "samp.server1.com:7777"
+  ],
+  "Ip_Usuario": [
+    "189.105.234.100"
+  ]
+}
