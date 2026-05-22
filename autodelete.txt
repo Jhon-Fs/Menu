@@ -1,1 +1,4 @@
-1.1
+{
+    "excluir": "nao",
+    "versao": "1.0"
+}
